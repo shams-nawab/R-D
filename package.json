@@ -1,0 +1,20 @@
+{
+  "name": "R-D",
+  "version": "1.0.0",
+  "description": "research and development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shams-nawab/R-D.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shams-nawab/R-D/issues"
+  },
+  "homepage": "https://github.com/shams-nawab/R-D#readme"
+}
